@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u9K8PUFussrbFbaze0/giphy.gif" width="500"/>
+  <img src="https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/b/10648/files/2014/06/DI_atom_anim.gif" width="500"/>
 </div>
 
 ---
