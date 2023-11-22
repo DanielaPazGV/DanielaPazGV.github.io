@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Daniela González Vargas"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Currently pursuing MSc in Astronomy at Universidad de Concepción "
-  location         : "Based in Concepción and Santiago, Chile"
+  location         : "Concepción & Santiago, Chile"
   employer         : "Universidad de Concepción"
   pubmed           : 
   googlescholar    : 
   email            : "dagonzalez2018@udec.cl"
-  email            : "dagonzalezastro@outlook.com"
+  # email            : "dagonzalezastro@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
