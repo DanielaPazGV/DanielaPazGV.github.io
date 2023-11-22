@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "D. P. González"
+title                    : "D.P. González"
 title_separator          : "-"
-name                     : &name "Joaquín Hernández-Yévenes"
+name                     : &name "Daniela González Vargas"
 description              : &description "personal description"
 url                      : https://danielapazgv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joaquín Hernández-Yévenes"
+  name             : "Daniela González Vargas"
   avatar           : "profile.png"
-  bio              : "Alumnus of Universidad de Concepción, pursuing MSc in Astronomy"
-  location         : "Based in Talcahuano, Chile"
+  bio              : "Currently pursuing MSc in Astronomy at Universidad de Concepción "
+  location         : "Based in Concepción and Santiago, Chile"
   employer         : "Universidad de Concepción"
   pubmed           : 
   googlescholar    : 
-  email            : "jheryev@gmail.com"
+  email            : "dagonzalez2018@udec.cl"
+  email            : "dagonzalezastro@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"https://www.linkedin.com/in/jhyevenes/"
-  orcid            : "http://orcid.org/0000-0001-5845-7538"
+  orcid            : #"http://orcid.org/0000-0001-5845-7538"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
