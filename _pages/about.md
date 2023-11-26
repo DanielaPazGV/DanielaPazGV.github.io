@@ -19,7 +19,7 @@ I'm Daniela González, an MSc student in Astronomy at the Universidad de Concepc
 
 - ✨ For my MSc thesis project, I am conducting a comprehensive analysis of Radial Velocity measurements in M-dwarf systems. I am concurrently investigating stellar activity through spectroscopic activity indicators. This aims to either confirm or dismiss potentially ambiguous planetary signals with orbital periods similar to the stellar rotation period. These findings prompt crucial questions about the true origin of the radial velocity variationss initially attributed as planets.
 
-- ✨ I'm always eager to expand my knowledge and welcome collaborations. Feel free to reach out via the contact email provided in the sidebar. 
+- ✨ I'm always eager to expand my knowledge and welcome collaborations. Feel free to reach out via the contact email provided in the sidebar or [here](mailto:dagonzalez2018@udec.cl) 
 
 <!-- - 🔭 Currently working on my MSc thesis project, estimating the masses of supermassive black holes (SMBH) using WISE cataloged data for the ngEHT Collaboration, as part of the leo Milenio TITANS group. -->
 
